@@ -60,7 +60,7 @@ describe('basic object generalization', () => {
   it('should build array from distinct object types', () => {
     var actual = generalizeArray([
       'incredible',
-      800
+      800,
     ]);
     assertEqualSchemas(actual, [{
       type: 'string',
@@ -101,7 +101,7 @@ describe('basic object generalization', () => {
   it('should build array schema from objects with identical object types but different lengths', () => {
     var actual = generalizeArray([
       [
-        { name: 'Curious George', email: 'cgeorge@example.org'}
+        { name: 'Curious George', email: 'cgeorge@example.org'},
       ],
       [
         { name: 'Bran Kurtz', email: 'bkurtz@example.org'},

@@ -1,8 +1,11 @@
 # generalize
 
+[![npm version](https://badge.fury.io/js/generalize.svg)](https://www.npmjs.com/package/generalize)
+[![Travis CI Build Status](https://travis-ci.org/chbrown/generalize.svg)](https://travis-ci.org/chbrown/generalize)
+
 **Install:**
 
-    npm install -g generalize
+    npm install -g generalize-cli
 
 ## Example
 

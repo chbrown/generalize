@@ -14,19 +14,12 @@
   },
   "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
   "license": "MIT",
-  "dependencies": {
-    "yargs": "*"
-  },
   "devDependencies": {
     "babel-core": "^5.0.0",
-    "declarations": "*",
     "mocha": "*",
     "typescript": "*"
   },
   "scripts": {
     "test": "make test"
-  },
-  "bin": {
-    "generalize": "bin/generalize"
   }
 }
