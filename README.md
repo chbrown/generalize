@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/generalize.svg)](https://www.npmjs.com/package/generalize)
 [![Travis CI Build Status](https://travis-ci.org/chbrown/generalize.svg)](https://travis-ci.org/chbrown/generalize)
+[![Coverage Status](https://coveralls.io/repos/chbrown/generalize/badge.svg)](https://coveralls.io/github/chbrown/urlio)
 
 **Install:**
 
